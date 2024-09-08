@@ -1,5 +1,15 @@
 # thirdweb
 
+## 5.53.0
+
+### Minor Changes
+
+- [#4454](https://github.com/thirdweb-dev/js/pull/4454) [`c546b65`](https://github.com/thirdweb-dev/js/commit/c546b65e172623c0079efafbfce167c79e29a2ce) Thanks [@joaquim-verges](https://github.com/joaquim-verges)! - Expose `createAndSignUserOp` utility function
+
+### Patch Changes
+
+- [#4462](https://github.com/thirdweb-dev/js/pull/4462) [`f3a6179`](https://github.com/thirdweb-dev/js/commit/f3a6179e373c8e06fade56b1eff48c2261247c0e) Thanks [@joaquim-verges](https://github.com/joaquim-verges)! - Fix common icons theme in React Native
+
 ## 5.52.0
 
 ### Minor Changes
